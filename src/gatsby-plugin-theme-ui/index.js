@@ -1,16 +1,17 @@
 import chronoblogTheme from 'gatsby-theme-chronoblog/src/gatsby-plugin-theme-ui';
+import "@fontsource/raleway" 
 
 export default {
   ...chronoblogTheme,
-  initialColorMode: 'light',
+  initialColorMode: 'dark',
   colors: {
     ...chronoblogTheme.color,
     text: '#222',
     background: '#fff',
-    link: '#3d7e9a',
+    link: '#777777',
     primary: '#3a5f7d',
     secondary: '#5a809e',
-    muted: '#dae1e3',
+    muted: '#f0f3f4',
     modes: {
       ...chronoblogTheme.colors.modes,
       dark: {
@@ -18,6 +19,7 @@ export default {
         text: '#eaeaea',
         background: '#0e0f17',
         muted: '#161b1d',
+        link: '#60a5fa',
       },
     },
   },
@@ -38,7 +40,7 @@ export default {
   },
   fonts: {
     ...chronoblogTheme.fonts,
-    body: '-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif',
+    body: '-apple-system,BlinkMacSystemFont,raleway,Arial,sans-serif',
     heading: 'inherit',
     monospace: 'Menlo, monospace',
   },

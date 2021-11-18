@@ -1,33 +1,41 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Chronoblog Starter',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
+    siteTitle: 'Gökhan Ayrancıoğlu',
+    siteDescription: 'Gökhan Ayrancıoğlu\'nun Kişisel Blogu',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog.now.sh/',
+    siteUrl: 'https://gokhana.dev',
     pathPrefix: '/',
-    siteLanguage: 'en',
-    ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
-    avatar: '/avatar.jpg',
-    twitterSite: '', // website account on twitter
-    twitterCreator: '', // creator account on twitter
+    siteLanguage: 'tr',
+    ogLanguage: `tr_TR`,
+    author: 'Gökhan Ayrancıoğlu', // for example - 'Ivan Ganev'
+    authorDescription: 'Software Engineer @Yemeksepeti | Tech Blogger', // short text about the author
+    avatar: '/avatar.jpeg',
+    twitterSite: 'https://twitter.com/gokhanadev', // website account on twitter
+    twitterCreator: 'https://twitter.com/gokhanadev', // creator account on twitter
     social: [
       {
         icon: `at`,
-        url: `mailto:mymail@mail.com`,
+        url: `mailto:gokhana@mail.com`,
+      },
+      {
+        icon: `medium`,
+        url: `https://gokhana.medium.com/`,
       },
       {
         icon: `twitter`,
-        url: `https://twitter.com/ganevru`,
+        url: `https://twitter.com/gokhanadev`,
       },
       {
         icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`,
+        url: `https://github.com/G-khan`,
       },
       {
-        icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`,
+        icon: `linkedin`,
+        url: `https://www.linkedin.com/in/gokhan-a/`,
+      },
+      {
+        icon: `java`,
+        url: `https://superpeer.com/gokhana`,
       },
     ],
   },
@@ -61,8 +69,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Chronoblog Gatsby Theme`,
-        short_name: `Chronoblog`,
+        name: `Gokhan Ayrancioglu`,
+        short_name: `gokhana.dev`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#3a5f7d`,
@@ -77,7 +85,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // replace "UA-XXXXXXXXX-X" with your own Tracking ID
-        trackingId: 'UA-XXXXXXXXX-X',
+        trackingId: 'UA-111444912-1',
       },
     },
     {

@@ -1,12 +1,9 @@
 ---
-title: Video in Link Card
-date: 2019-11-11
-link: https://www.youtube.com/watch?v=7V6FFeZdFz4
-tags: ['video', 'link']
+title: Kotlin ile Backend/Server-Side Programlama
+date: 2021-10-19
+link: https://www.youtube.com/watch?v=ovteP53wzpA
+tags: ['video', 'kotlin']
 ---
 
-<Embed
-  src="https://www.youtube.com/embed/7V6FFeZdFz4"
-/>
-
-An example of how you can embed YouTube videos in a **link card**. Link leads to this video on YouTube.
+![Kotlin ile backend](https://media.kommunity.com/communities/delivery-hero-tech-hub/events/kotlin-ile-backendserver-side-programlama-c9a83374/26871/kotlin-backend.jpg?p=event-640)
+**Kotlin ile Backend/Server-side Programlma** adlı etkinliğin videosu yayınlandı. Biraz dil sürçmesi, biraz heyecan ama sonunda güzel ve gurur verici bir sunum ortaya çıktı. Çok mutluyum ilk sunumumu,Delivery Hero Tech Hub'ın ilk etkinliğinde yapmış oldum. Umarım yararlı olmuş ve birşeyler katabilmişimdir.

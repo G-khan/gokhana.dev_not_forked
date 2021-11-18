@@ -1,11 +1,13 @@
 ---
-title: 'Link to Chronoblog Theme repo'
-cover: ./image.jpg
-date: 2019-11-12
-link: https://github.com/Ganevru/gatsby-theme-chronoblog
+title: "The software Engineer's Repository"
+cover: ./the-software-engineers-library.png
+date: 2021-11-01
+link: https://github.com/G-khan/the-software-engineer-library
 tags: ['link', 'project']
 ---
 
-**Link card** is a card, when clicked, the user goes to the specified link.
+### The Software Engineer/Developer's Library
 
-Use it to refer to your articles on other resources, to your new works (wherever they are posted: Github, Dribbble or anything else), to the certificates you received, and in general, to whatever is more convenient give a link.
+Her yazılım mühendisinin/geliştiricisinin farkında olması gereken kitapların listesini içeren bir kütüphane.
+
+Ekip için kütüphane oluşturmayı düşünüp bir liste hazırladık ve Twitter'daki önerilerle birlikte liste büyüdü. [tweet serisi](https://twitter.com/gokhanadev/status/1457625406836822016?s=20).
