@@ -9,7 +9,7 @@ module.exports = {
     ogLanguage: `tr_TR`,
     author: 'Gökhan Ayrancıoğlu', // for example - 'Ivan Ganev'
     authorDescription: 'Software Engineer @Yemeksepeti | Tech Blogger', // short text about the author
-    avatar: '/avatar.jpeg',
+    avatar: '/avatar.jpg',
     twitterSite: 'https://twitter.com/gokhanadev', // website account on twitter
     twitterCreator: 'https://twitter.com/gokhanadev', // creator account on twitter
     social: [
@@ -34,7 +34,7 @@ module.exports = {
         url: `https://www.linkedin.com/in/gokhan-a/`,
       },
       {
-        icon: `java`,
+        icon: `phone`,
         url: `https://superpeer.com/gokhana`,
       },
     ],
