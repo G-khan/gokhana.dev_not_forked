@@ -34,7 +34,7 @@ module.exports = {
         url: `https://www.linkedin.com/in/gokhan-a/`,
       },
       {
-        icon: `phone`,
+        icon: `superpeer`,
         url: `https://superpeer.com/gokhana`,
       },
     ],

@@ -10,7 +10,7 @@ export default {
     background: '#fff',
     link: '#777777',
     primary: '#3a5f7d',
-    secondary: '#5a809e',
+    secondary: 'rgb(90, 128, 158,0.3)',
     muted: '#f0f3f4',
     modes: {
       ...chronoblogTheme.colors.modes,
@@ -27,7 +27,7 @@ export default {
   borderRadius: {
     ...chronoblogTheme.borderRadius,
     card: 6,
-    button: 6,
+    button: 10,
     search: 6,
     code: 6,
     img: 6,
